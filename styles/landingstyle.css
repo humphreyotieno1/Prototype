@@ -7,7 +7,7 @@
 body {
     font-family: 'Poppins', sans-serif;
     background-color: #f7f7f7;
-    background-image: url('./images/pixels.jpg');
+    background-image: url('../images/pixels.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
